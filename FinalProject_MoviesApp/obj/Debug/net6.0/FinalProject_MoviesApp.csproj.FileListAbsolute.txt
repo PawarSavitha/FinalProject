@@ -66,3 +66,4 @@ C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug
 C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.pdb
 C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\FinalProject_MoviesApp.genruntimeconfig.cache
 C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\obj\Debug\net6.0\ref\FinalProject_MoviesApp.dll
+C:\.NET Core and WEB API\FinalProject_MoviesApp\FinalProject_MoviesApp\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4dKk38Nh1/50ztirbjDahN1S9iHuPPAMgQn65RV/12U2qLMYv2nuWYNab8FjJEOHQJ4TtQ4yU5SBOn/5+r6ehw==",
+  "dgSpecHash": "xufSCuwUj5qWsBECD+4QUXiV3Dh75fJ11SVq+cGYtMwXrsiT/SPW7nGtP3OHW+Rz8PM+43lEf+38qhcANzuIQg==",
   "success": true,
   "projectFilePath": "C:\\.NET Core and WEB API\\FinalProject_MoviesApp\\FinalProject_MoviesApp\\FinalProject_MoviesApp.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\mkrishnajatt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\mkrishnajatt\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",

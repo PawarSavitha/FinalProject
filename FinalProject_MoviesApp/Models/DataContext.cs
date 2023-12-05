@@ -10,5 +10,6 @@ namespace FinalProject_MoviesApp.Models
         }
 
         public DbSet<User> Users { get; set; }
+
     }
 }

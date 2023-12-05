@@ -24,12 +24,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/DeleteMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVNb3ZpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/Movies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/SaveMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Home/SearchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2hSZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/.NET Core and WEB API/FinalProject_MoviesApp/FinalProject_MoviesApp/Views/Shared/Error.cshtml]

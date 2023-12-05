@@ -14,5 +14,28 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+nav {
+    background-color: #2F3C7E;
+    color:white;
+}
+
+
+.nav-link{
+    color:white !important;
+}
+
+.center {
+  justify-content:center;
+  align-items:center;
+}
+
+.btn-clr {
+    background-color: #2F3C7E;
+}
+
+.text-clr {
+    color: white !important;
 }
